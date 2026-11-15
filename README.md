@@ -1,6 +1,6 @@
 # Baltic States GDP Analysis (2014–2025)
 
-![Dashboard Overview](image.png)
+![Dashboard Overview](overview.png)
 
 ## Project Overview
 

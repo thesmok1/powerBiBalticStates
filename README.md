@@ -1,5 +1,7 @@
 # Baltic States GDP Analysis (2014–2025)
 
+![Dashboard Overview](image.png)
+
 ## Project Overview
 
 An interactive Power BI project analyzing real GDP growth across the three Baltic countries: Estonia, Latvia, and Lithuania.
